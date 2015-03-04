@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Finds out the dependencies of each file in your javascript codebase.",
   "main": "index.js",
+  "bin": "./bin/script.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

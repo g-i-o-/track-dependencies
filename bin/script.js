@@ -1,3 +1,5 @@
+#! /usr/bin/env nodejs
+
 var static_dependencies = require('../lib/static-dependencies');
 
 var USAGE = 
