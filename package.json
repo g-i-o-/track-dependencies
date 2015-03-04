@@ -1,0 +1,28 @@
+{
+  "name": "static-dependencies",
+  "version": "1.0.0",
+  "description": "Finds out the dependencies of each file in your javascript codebase.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/g-i-o-/track-dependencies"
+  },
+  "keywords": [
+    "nodejs",
+    "dependencies",
+    "track",
+    "javascript"
+  ],
+  "author": "Gio <aleph.omega@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/g-i-o-/track-dependencies/issues"
+  },
+  "homepage": "https://github.com/g-i-o-/track-dependencies",
+  "dependencies": {
+    "async": "^0.9.0"
+  }
+}
